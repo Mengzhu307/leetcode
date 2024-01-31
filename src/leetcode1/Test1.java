@@ -69,4 +69,8 @@ public class Test1 {
 		}
 		return num;
 	}
+
+	public static void main(String[] args) {
+		
+	}
 }
